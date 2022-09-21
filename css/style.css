@@ -18,6 +18,7 @@
 	height:100px;
 	width:20%;
 	float:left;
+	
 	border:1px solid black;
 }
 .list{
@@ -25,6 +26,10 @@
 	width:50px;
 	margin:15px;
     border:1px solid orange;
+}
+.list>i{
+	color:orange;
+	font-size:50px;
 }
 .header2{
 	height:100px;
